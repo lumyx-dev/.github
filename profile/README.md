@@ -30,3 +30,4 @@ Self-hosting Lumyx unmodified for your own product triggers no AGPL obligation â
 - **Questions and ideas:** [sfu-core Discussions](https://github.com/lumyx-dev/sfu-core/discussions)
 - **Contributing:** [CONTRIBUTING.md](https://github.com/lumyx-dev/.github/blob/main/CONTRIBUTING.md)
 - **Docs:** [docs.lumyx.dev](https://docs.lumyx.dev)
+- **Follow the build:** [X](https://x.com/mathchambaud) Â· [LinkedIn](https://www.linkedin.com/in/mathieu-chambaud-9b4106170/)
